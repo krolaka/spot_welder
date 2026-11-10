@@ -658,11 +658,22 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
-    "used_designators": "",
+    "top_level_sheets": [
+      {
+        "filename": "spot_welder.kicad_sch",
+        "name": "spot_welder",
+        "uuid": "7f5e4a9f-8a1a-4f4a-853b-6ad612a372f3"
+      }
+    ],
+    "used_designators": "#PWR16-24,C5-7,JP1,R17-20,SW1-3,U4",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "7f5e4a9f-8a1a-4f4a-853b-6ad612a372f3",
+      "spot_welder"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
