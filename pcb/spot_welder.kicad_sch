@@ -7907,7 +7907,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "library:TO-220-2_Horizontal_Custom"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 242.57 97.155 0)
 			(hide yes)
 			(show_name no)
@@ -7920,7 +7920,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irlz44n.pdf"
 			(at 242.57 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -7932,7 +7932,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"
 			(at 237.49 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -7993,7 +7993,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
 			(at 85.09 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -10111,7 +10111,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_SparkFun-Connector:1x03_P2.54mm"
 			(at 121.92 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -10272,7 +10272,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
 			(at 57.15 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -10512,7 +10512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "library:TO-220-2_Horizontal_Custom"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 242.57 142.875 0)
 			(hide yes)
 			(show_name no)
@@ -10525,7 +10525,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irlz44n.pdf"
 			(at 242.57 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -10537,7 +10537,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"
 			(at 237.49 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -10678,7 +10678,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_SparkFun-Connector:1x03_P2.54mm"
 			(at 121.92 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -10761,7 +10761,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
 			(at 115.57 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -10921,7 +10921,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "library:Pad_M5_12x12mm"
 			(at 265.43 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11081,7 +11081,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_SparkFun-Connector:1x04_P2.54mm"
 			(at 40.64 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -12686,7 +12686,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "library:TO-220-2_Horizontal_Custom"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 242.57 51.435 0)
 			(hide yes)
 			(show_name no)
@@ -12699,7 +12699,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irlz44n.pdf"
 			(at 242.57 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -12711,7 +12711,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"
 			(at 237.49 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -12774,7 +12774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "library:TO-220-2_Horizontal_Custom"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 242.57 112.395 0)
 			(hide yes)
 			(show_name no)
@@ -12787,7 +12787,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irlz44n.pdf"
 			(at 242.57 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -12799,7 +12799,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"
 			(at 237.49 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -13540,7 +13540,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "library:TO-220-2_Horizontal_Custom"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 242.57 81.915 0)
 			(hide yes)
 			(show_name no)
@@ -13553,7 +13553,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irlz44n.pdf"
 			(at 242.57 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -13565,7 +13565,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"
 			(at 237.49 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -14096,7 +14096,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_SparkFun-Connector:1x02_P2.54mm"
 			(at 149.86 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -14178,7 +14178,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "library:TO-220-2_Horizontal_Custom"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 242.57 127.635 0)
 			(hide yes)
 			(show_name no)
@@ -14191,7 +14191,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irlz44n.pdf"
 			(at 242.57 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -14203,7 +14203,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"
 			(at 237.49 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -14346,7 +14346,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels"
 			(at 29.21 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -14453,7 +14453,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "library:TO-220-2_Horizontal_Custom"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 242.57 66.675 0)
 			(hide yes)
 			(show_name no)
@@ -14466,7 +14466,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irlz44n.pdf"
 			(at 242.57 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -14478,7 +14478,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"
 			(at 237.49 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -14642,7 +14642,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "library:L_Sunlord_SWRH0704B"
 			(at 177.8 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -14665,6 +14665,61 @@
 			)
 		)
 		(property "Description" "Inductor with ferrite core"
+			(at 177.8 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SWRH0704B-100MT"
+			(at 177.8 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Sunlord"
+			(at 177.8 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "+/-20%"
+			(at 177.8 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DCR" "49mOhm"
+			(at 177.8 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Rated_Current" "1.84A"
 			(at 177.8 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -14735,7 +14790,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.st.com/resource/en/datasheet/pm8834.pdf"
 			(at 207.01 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -14746,7 +14801,7 @@
 				)
 			)
 		)
-		(property "Description" "4.5A dual low-side MOSFET driver, SOIC-8"
+		(property "Description" "4A dual low-side MOSFET driver, SOIC-8"
 			(at 207.01 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -14824,7 +14879,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "library:Pad_M5_12x12mm"
 			(at 265.43 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -14903,7 +14958,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "library:TO-220-2_Horizontal_Custom"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 242.57 36.195 0)
 			(hide yes)
 			(show_name no)
@@ -14916,7 +14971,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irlz44n.pdf"
 			(at 242.57 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -14928,7 +14983,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47A Id, 55V Vds, 22mOhm Rds Single N-Channel HEXFET Power MOSFET, TO-220AB"
 			(at 237.49 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -14989,7 +15044,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_SparkFun-Connector:1x04_P2.54mm"
 			(at 170.18 144.78 0)
 			(hide yes)
 			(show_name no)

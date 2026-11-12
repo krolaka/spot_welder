@@ -1,0 +1,66 @@
+(footprint "L_Sunlord_SWRH0704B"
+  (version 20241229)
+  (generator "kicad-mcp")
+  (generator_version "9.0")
+  (layer "F.Cu")
+  (descr "Sunlord SWRH0704B wire-wound SMD power inductor, body 7.8x7.8mm, H5.0mm. Land: pad 1.6x2.2 at +/-3.2mm (I=1.6, J=4.8, H=2.2 per datasheet Table 4-1).")
+  (tags "inductor choke SMD power Sunlord SWRH0704B 7.8x7.8")
+
+  (property "Reference" "REF**" (at 0 -5.4 0)
+    (layer "F.SilkS")
+    (uuid "bb33c5da-9fc9-4acd-b7f3-aac400085a6a")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (property "Value" "L_Sunlord_SWRH0704B" (at 0 5.4 0)
+    (layer "F.Fab")
+    (uuid "e024903c-8504-4f62-be36-421f4120cfcc")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (property "Datasheet" "" (at 0 0 0)
+    (layer "F.Fab")
+    (uuid "1c71f056-0d8d-456c-bcd1-da0ab6732f2d")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+
+  (fp_rect
+    (start -4.25 -4.25)
+    (end 4.25 4.25)
+    (stroke (width 0.05) (type default))
+    (fill none)
+    (layer "F.CrtYd")
+    (uuid "67cac40c-4627-48e4-941d-4f2db1aefc3b")
+  )
+
+  (fp_rect
+    (start -4.05 -4.05)
+    (end 4.05 4.05)
+    (stroke (width 0.12) (type default))
+    (fill none)
+    (layer "F.SilkS")
+    (uuid "2f2d1654-dfc4-4809-950e-861baac4df2b")
+  )
+
+  (fp_rect
+    (start -3.9 -3.9)
+    (end 3.9 3.9)
+    (stroke (width 0.1) (type default))
+    (fill none)
+    (layer "F.Fab")
+    (uuid "33f03b1d-b0fd-4750-8831-bc1fdacbe38d")
+  )
+
+  (pad "1" smd rect
+    (at -3.2 0)
+    (size 1.6 2.2)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (uuid "d01167ff-d29c-4d71-8c98-534204c961b5")
+  )
+
+  (pad "2" smd rect
+    (at 3.2 0)
+    (size 1.6 2.2)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (uuid "fb8bda51-386e-42a0-9c92-ffa5c11317b8")
+  )
+
+)
